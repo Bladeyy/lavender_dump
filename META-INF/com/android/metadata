@@ -1,0 +1,9 @@
+ota-property-files=metadata:69:314         
+ota-required-cache=0
+ota-type=BLOCK
+post-build=xiaomi/lavender/lavender:9/PKQ1.180904.001/V10.2.11.0.PFGINXM:user/release-keys
+post-build-incremental=V10.2.11.0.PFGINXM
+post-sdk-level=28
+post-security-patch-level=2019-03-05
+post-timestamp=1554650288
+pre-device=lavender
