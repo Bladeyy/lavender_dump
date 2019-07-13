@@ -1,0 +1,97 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: paqskQTMVpQdIDZPxEctuyWnkRc=
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: jFBFXyRLEUXjbvKyyZVk6UDIW9I=
+
+Name: firmware-update/BTFM.bin
+SHA1-Digest: +rv4psvLsul0I1axQb567mhz6C8=
+
+Name: firmware-update/km4.mbn
+SHA1-Digest: WW5MlgmMn1wQ2HAh41mXX4DUtxY=
+
+Name: compatibility.zip
+SHA1-Digest: Gq23iWK4AYeDA3WzHzNhMQPJF88=
+
+Name: system.patch.dat
+SHA1-Digest: 774VWw1Wa8Y+IPKHHCeM6N//yzE=
+
+Name: firmware-update/storsec.mbn
+SHA1-Digest: /wzLdtqrBJ9KohVGAqYjvryjtdw=
+
+Name: system.transfer.list
+SHA1-Digest: BcyLEDyAIT0t27kuNXA2IwO5J+4=
+
+Name: firmware-update/abl.elf
+SHA1-Digest: vbAA8PhW+WBiny3H0lSg9vQp9lE=
+
+Name: firmware-update/devcfg.mbn
+SHA1-Digest: j+87Nl0iGSPogQ4blIWJkGT5PR4=
+
+Name: firmware-update/dspso.bin
+SHA1-Digest: rEycSKpgXEWUyBWFogX4JGrel0c=
+
+Name: firmware-update/mdtp.img
+SHA1-Digest: TcpFf6NtRjgL7p37nJl7Y34gir8=
+
+Name: META-INF/com/android/metadata
+SHA1-Digest: fTXe2ukAIdrcjfhbnBU+Vua99Oc=
+
+Name: firmware-update/xbl.elf
+SHA1-Digest: NRM1DHxxvHglOgQCn75bBD8xtog=
+
+Name: firmware-update/dtbo.img
+SHA1-Digest: ZYN5ZSwqjOACbCC+/S2HAzuMZ+E=
+
+Name: firmware-update/NON-HLOS.bin
+SHA1-Digest: 5CqiVx2dWJ2IDZDzNeol8PQcN3w=
+
+Name: firmware-update/cmnlib64.mbn
+SHA1-Digest: 7FG8zHXB/8FKnu3xCPnERAhpysk=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: q94I3Fg4llyH6eUm7p7l3xLQHWg=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: 8OY13QCsUvcrTSY8NwjY9V2MNWs=
+
+Name: vendor.patch.dat
+SHA1-Digest: FGxh8AKe7Jf6bDNWX6tLn6TB/xA=
+
+Name: firmware-update/hyp.mbn
+SHA1-Digest: mRycYvDCMjg95pDwdnM/GZzldzE=
+
+Name: vendor.new.dat.br
+SHA1-Digest: MWqwWHA5i3OLhkZ2DHphbRALVDc=
+
+Name: boot.img
+SHA1-Digest: L2ebEV69fge9pqfd2e6bEUiEKxw=
+
+Name: firmware-update/splash.img
+SHA1-Digest: u7KBd+0g1g9uFrncp7hMAsX2R1I=
+
+Name: firmware-update/vbmeta.img
+SHA1-Digest: MA8hfhRcp7oq5VFtbTzp1rMD/Yg=
+
+Name: firmware-update/mdtpsecapp.mbn
+SHA1-Digest: 5eiKUpMML4J+oL/lkoMPiLml37k=
+
+Name: vendor.transfer.list
+SHA1-Digest: I7+7kZSWs5U8zYnrGohFqksMq5s=
+
+Name: firmware-update/rpm.mbn
+SHA1-Digest: VzorX5lyDKuzH/fVbgANj6ZsSug=
+
+Name: system.new.dat.br
+SHA1-Digest: 01lLHJAmX0IPIb3TOZ+iSec1bPE=
+
+Name: firmware-update/tz.mbn
+SHA1-Digest: PqhOupfhsKRPZLZkQbkMLi7Ok0I=
+
+Name: firmware-update/pmic.elf
+SHA1-Digest: dTbhutOQuubJhxO4kaRHvAR9p+Q=
+
+Name: firmware-update/cmnlib.mbn
+SHA1-Digest: xA1Llq6TSMuP4IU5jBUrwMXC4mk=
+
